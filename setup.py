@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="email-service",
-    version="0.1.0",
+    version="0.1.1",  # Increment version
     description="Shared email service for Flask applications",
     author="Sameer Rawat",
     author_email="samraw1904@gmail.com",
