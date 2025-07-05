@@ -1,4 +1,4 @@
-from .mailer import init_mail, send_subscription_confirmation, send_payment_receipt, mail
+from .mailer import init_mail, mail
 from flask_mail import Message
 import logging
 
