@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="email-service",
-    version="0.1.1",  # Increment version
-    description="Shared email service for Flask applications",
+    version="0.1.2",  # Increment version
+    description="Shared email service for Flask applications with SalesWit and MarketFit templates",
     author="Sameer Rawat",
     author_email="samraw1904@gmail.com",
     packages=find_packages(),
